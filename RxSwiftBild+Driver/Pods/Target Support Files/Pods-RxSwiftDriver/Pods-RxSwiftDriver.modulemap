@@ -1,0 +1,6 @@
+module Pods_RxSwiftDriver {
+  umbrella header "Pods-RxSwiftDriver-umbrella.h"
+
+  export *
+  module * { export * }
+}

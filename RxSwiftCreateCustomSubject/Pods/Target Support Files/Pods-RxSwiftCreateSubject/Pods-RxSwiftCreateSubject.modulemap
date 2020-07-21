@@ -1,0 +1,6 @@
+framework module Pods_RxSwiftCreateSubject {
+  umbrella header "Pods-RxSwiftCreateSubject-umbrella.h"
+
+  export *
+  module * { export * }
+}

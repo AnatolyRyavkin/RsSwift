@@ -1,0 +1,6 @@
+module Pods_RxSwiftExampleMVVCFromBook {
+  umbrella header "Pods-RxSwiftExampleMVVCFromBook-umbrella.h"
+
+  export *
+  module * { export * }
+}
